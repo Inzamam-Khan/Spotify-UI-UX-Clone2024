@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import leftIcon from '../assets/leftArrowicon.svg';
+import leftIcon from '../assets/leftArrowIcon.svg';
 import rightIcon from '../assets/rightIcon.svg';
 import userLogo from '../assets/userLogo.png'
 export const Header=()=>{
